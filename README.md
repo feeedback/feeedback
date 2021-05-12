@@ -10,8 +10,12 @@
 
 ### My pet projects
 
-*   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Twitch chat bot - Aligulac API**](https://github.com/feeedback/twitch_chat_bot_aligulac)  
+*   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Twitch chat bot - Aligulac API**](https://github.com/feeedback/twitch_chat_bot_aligulac)&nbsp;&nbsp;&nbsp;[<img src="https://i.imgur.com/TPCmQvW.png" alt="Demo" height="16">_Demo_](https://www.twitch.tv/aligulac_bot)    
     _Cтатистика и предсказание исхода противостояний киберспортсменов по Starcraft 2_
+*   [<img src="https://i.imgur.com/TPCmQvW.png" alt="Demo" height="16"> **Minesweeper game**](https://feeedback.github.io/minesweeper-project)&nbsp;&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16">_Code_](https://github.com/feeedback/twitch_chat_bot_aligulac)  
+    _Полнофункциональный Сапёр. Семантическая и адаптивная вёрстка, доступный дизайн_
+<!-- *   [<img src="https://i.imgur.com/TPCmQvW.png" alt="Demo" height="16"> **Exercise tracker with DB**](https://glitch.com/edit/#!/exercise-tracker-risok)  
+    _Планировщик упражнений. Учебный проект по работе с базами данных и сервером на FreeCodeCamp._ -->
 
 \
 [![Website](https://img.shields.io/badge/Website-%2390E59A.svg?style=for-the-badge&logo=influxdb&logoColor=darkgreen&color=f9f9f7)](https://risok.now.sh)&nbsp;
