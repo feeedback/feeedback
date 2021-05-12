@@ -1,4 +1,5 @@
-<h2 align="center">Fullstack JS developer (focus on BackEnd)</h2>
+<h3 align="center">Fullstack JS developer (focus on BackEnd)</h3>
+
 
 ### Languages and Tools:
 
@@ -13,4 +14,5 @@
     _Cтатистика и предсказание исхода противостояний киберспортсменов по Starcraft 2_
 
 \
-[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/feeedback) [![Telegram](https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/risok)
+[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?style=social&logo=github&logoColor=black)](https://github.com/feeedback)&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=social&logo=Telegram&logoColor=white)](https://t.me/risok)
