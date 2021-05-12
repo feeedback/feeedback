@@ -1,4 +1,5 @@
 <h3 align="center">🌳 Software engineer with a focus on web development</h3>
+<h5 align="center">Fullstack JS developer (focus on BackEnd)</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feeedback&label=Profile%20views&color=0e75b6&style=flat" alt="feeedback" /> </p>
 
