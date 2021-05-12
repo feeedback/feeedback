@@ -14,5 +14,7 @@
     _Cтатистика и предсказание исхода противостояний киберспортсменов по Starcraft 2_
 
 \
-[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?style=social&logo=github&logoColor=black)](https://github.com/feeedback)&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=social&logo=Telegram&logoColor=white)](https://t.me/risok)
+[![Website](https://img.shields.io/badge/Website-%2390E59A.svg?style=for-the-badge&logo=influxdb&logoColor=darkgreen&color=f9f9f7)](https://risok.now.sh)&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-%234A5F88.svg?style=for-the-badge&logo=habr&logoColor=darkgreen&color=f9f9f7)](https://career.habr.com/risok)&nbsp;
+[![Github](https://img.shields.io/badge/GitHub-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black&color=f9f9f7)](https://github.com/feeedback)&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white&color=f9f9f7)](https://t.me/risok)&nbsp;
