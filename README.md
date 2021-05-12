@@ -14,6 +14,11 @@
     _Cтатистика и предсказание исхода противостояний киберспортсменов по Starcraft 2_
 *   [<img src="https://i.imgur.com/TPCmQvW.png" alt="Demo" height="16"> **Minesweeper game**](https://feeedback.github.io/minesweeper-project)&nbsp;&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16">_Code_](https://github.com/feeedback/twitch_chat_bot_aligulac)  
     _Полнофункциональный Сапёр. Семантическая и адаптивная вёрстка, доступный дизайн_
+*   [<img src="https://i.imgur.com/TPCmQvW.png" alt="Demo" height="16"> **Calculator electric unicycle payback**](https://feeedback.github.io/calcEUCPayback)&nbsp;&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16">_Code_](https://github.com/feeedback/calcEUCPayback)  
+    _Калькулятор окупаемости EUC. Кастомные элементы формы. Адаптивность. Смена цветовой схемы_
+*   [<img src="https://i.imgur.com/TPCmQvW.png" alt="Demo" height="16"> **Personal website**](https://risok.now.sh)&nbsp;&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16">_Code_](https://github.com/feeedback/feeedback.github.io)  
+    _Сайт-визитка. Построен на JAM-стеке статическим генератором Eleventy (мигрировал с Jekyll)_
+
 <!-- *   [<img src="https://i.imgur.com/TPCmQvW.png" alt="Demo" height="16"> **Exercise tracker with DB**](https://glitch.com/edit/#!/exercise-tracker-risok)  
     _Планировщик упражнений. Учебный проект по работе с базами данных и сервером на FreeCodeCamp._ -->
 
