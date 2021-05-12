@@ -1,5 +1,4 @@
-<h3 align="center">Software engineer with a focus on web development</h3>
-<h4 align="center">Fullstack JS developer (focus on BackEnd)</h4>
+<h3 align="center">Fullstack JS developer (focus on BackEnd)</h3>
 
 
 
