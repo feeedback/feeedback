@@ -8,6 +8,14 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=feeedback&show_icons=true&locale=en&layout=compact" alt="feeedback"  height="165" /><img  src="https://github-readme-stats.vercel.app/api?username=feeedback&show_icons=true&locale=en" alt="feeedback" height="165"/></p>
 
+[![Website](https://img.shields.io/badge/Website-%2390E59A.svg?style=for-the-badge&logo=influxdb&logoColor=darkgreen&color=f7f7f5)](https://risok.now.sh)&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-%234A5F88.svg?style=for-the-badge&logo=habr&logoColor=4A5F88&color=f7f7f5)](https://career.habr.com/risok)&nbsp;
+[![Github](https://img.shields.io/badge/GitHub-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black&color=f7f7f5)](https://github.com/feeedback)&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white&color=f7f7f5)](https://t.me/risok)&nbsp;
+[![Codewars](https://img.shields.io/badge/Codewars-%23B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=B1361E&color=f7f7f5)](https://www.codewars.com/users/risok)&nbsp;
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&color=f7f7f5)](https://www.linkedin.com/in/risok) -->
+
+
 ### [My pet projects <img src="https://svgshare.com/i/XBc.svg" alt="Study" height="20"> <img src="https://svgshare.com/i/XCV.svg" alt="Study" height="18">](https://github.com/search?q=%40feeedback+%23pet-project)
 
 *   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Twitch chat bot - Aligulac API**](https://github.com/feeedback/twitch_chat_bot_aligulac)&nbsp;&nbsp;&nbsp;[<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16">_Demo_](https://www.twitch.tv/aligulac_bot)    
@@ -33,12 +41,3 @@
     _Реализация небольшого поискового движка текста_
 *   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **Тестовый мини-проект. Avito-Tech/Frontend**](https://feeedback.github.io/safedeal-frontend-trainee)&nbsp;&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16">_Code_](https://github.com/feeedback/safedeal-frontend-trainee)  
     _Галерея фото с комментариями. JS/React/Figma_
-
-\
-[![Website](https://img.shields.io/badge/Website-%2390E59A.svg?style=for-the-badge&logo=influxdb&logoColor=darkgreen&color=f9f9f7)](https://risok.now.sh)&nbsp;
-[![Resume](https://img.shields.io/badge/Resume-%234A5F88.svg?style=for-the-badge&logo=habr&logoColor=4A5F88&color=f9f9f7)](https://career.habr.com/risok)&nbsp;
-[![Github](https://img.shields.io/badge/GitHub-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black&color=f9f9f7)](https://github.com/feeedback)&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white&color=f9f9f7)](https://t.me/risok)&nbsp;
-[![Codewars](https://img.shields.io/badge/Codewars-%23B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=B1361E&color=f9f9f7)](https://www.codewars.com/users/risok)&nbsp;
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&color=f9f9f7)](https://www.linkedin.com/in/risok) -->
-
