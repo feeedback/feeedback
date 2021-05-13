@@ -29,6 +29,8 @@
     _Набор из пяти консольных логических игр_
 *   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Hexlet проект. Вычислитель отличий**](https://github.com/feeedback/backend-project-lvl2)  
     _Программа, определяющая разницу (diff) между двумя структурами данных_
+*   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Hexlet проект. Поисковый движок**](https://github.com/feeedback/js-algorithms-project-lvl1)   
+    _Реализация небольшого поискового движка текста_
     
 \
 [![Website](https://img.shields.io/badge/Website-%2390E59A.svg?style=for-the-badge&logo=influxdb&logoColor=darkgreen&color=f9f9f7)](https://risok.now.sh)&nbsp;
