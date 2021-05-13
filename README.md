@@ -8,7 +8,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=feeedback&show_icons=true&locale=en&layout=compact" alt="feeedback"  height="165" /><img  src="https://github-readme-stats.vercel.app/api?username=feeedback&show_icons=true&locale=en" alt="feeedback" height="165"/></p>
 
-### My pet projects <img src="https://svgshare.com/i/XBc.svg" alt="Study" height="20"> <img src="https://svgshare.com/i/XCV.svg" alt="Study" height="18">
+### [My pet projects <img src="https://svgshare.com/i/XBc.svg" alt="Study" height="20"> <img src="https://svgshare.com/i/XCV.svg" alt="Study" height="18">](https://github.com/search?q=%40feeedback+%23pet-project)
 
 *   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Twitch chat bot - Aligulac API**](https://github.com/feeedback/twitch_chat_bot_aligulac)&nbsp;&nbsp;&nbsp;[<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16">_Demo_](https://www.twitch.tv/aligulac_bot)    
     _Cтатистика и предсказание исхода противостояний киберспортсменов по Starcraft 2_
@@ -21,10 +21,14 @@
  *   <img src="https://svgshare.com/i/XBx.svg" alt="In development" height="18">&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Telegram bot - customizable search vacancies**](https://github.com/feeedback/vacancies_bot)   
     _Поиск и подписки на новые вакансии по своему гибкому фильтру_   
     
-### My study projects <img src="https://svgshare.com/i/XDg.svg" alt="Study" height="22">
+### [My study projects <img src="https://svgshare.com/i/XDg.svg" alt="Study" height="22">](https://github.com/search?q=%40feeedback+%23study-project)
 
 *   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **Exercise tracker with DB**](https://glitch.com/edit/#!/exercise-tracker-risok)  
     _Планировщик упражнений. Учебный проект по работе с базами данных и сервером на FreeCodeCamp._
+*   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Hexlet проект. Игры разума**](https://github.com/feeedback/backend-project-lvl1)  
+    _Набор из пяти консольных логических игр_
+*   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Hexlet проект. Вычислитель отличий**](https://github.com/feeedback/backend-project-lvl2)  
+    _Программа, определяющая разницу (diff) между двумя структурами данных_
     
 \
 [![Website](https://img.shields.io/badge/Website-%2390E59A.svg?style=for-the-badge&logo=influxdb&logoColor=darkgreen&color=f9f9f7)](https://risok.now.sh)&nbsp;
