@@ -23,7 +23,7 @@
     
 ### [My study projects <img src="https://svgshare.com/i/XDg.svg" alt="Study" height="22">](https://github.com/search?q=%40feeedback+%23study-project)
 
-*   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **Exercise tracker with DB**](https://glitch.com/edit/#!/exercise-tracker-risok)  
+*   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **FreeCodeCamp проект. Exercise tracker with DB**](https://glitch.com/edit/#!/exercise-tracker-risok)  
     _Планировщик упражнений. Учебный проект по работе с базами данных и сервером на FreeCodeCamp._
 *   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Hexlet проект. Игры разума**](https://github.com/feeedback/backend-project-lvl1)  
     _Набор из пяти консольных логических игр_
@@ -31,7 +31,9 @@
     _Программа, определяющая разницу (diff) между двумя структурами данных_
 *   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Hexlet проект. Поисковый движок**](https://github.com/feeedback/js-algorithms-project-lvl1)   
     _Реализация небольшого поискового движка текста_
-    
+*   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **Тестовый мини-проект. Avito-Tech/Frontend**](https://feeedback.github.io/safedeal-frontend-trainee)&nbsp;&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16">_Code_](https://github.com/feeedback/safedeal-frontend-trainee)  
+    _Галерея фото с комментариями. JS/React/Figma_
+
 \
 [![Website](https://img.shields.io/badge/Website-%2390E59A.svg?style=for-the-badge&logo=influxdb&logoColor=darkgreen&color=f9f9f7)](https://risok.now.sh)&nbsp;
 [![Resume](https://img.shields.io/badge/Resume-%234A5F88.svg?style=for-the-badge&logo=habr&logoColor=4A5F88&color=f9f9f7)](https://career.habr.com/risok)&nbsp;
