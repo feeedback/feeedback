@@ -41,3 +41,27 @@
     _Реализация небольшого поискового движка текста_
 *   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **Тестовый мини-проект. Avito-Tech/Frontend**](https://feeedback.github.io/safedeal-frontend-trainee)&nbsp;&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16">_Code_](https://github.com/feeedback/safedeal-frontend-trainee)  
     _Галерея фото с комментариями. JS/React/Figma_
+
+### My reading list <img src="https://svgshare.com/i/XSx.svg" alt="Books" height="16">
+
+* #### Currently reading <img src="https://svgshare.com/i/XRx.svg" alt="Books" height="16"> 
+   * ["Код. Тайный язык информатики" Charles Petzold](https://www.goodreads.com/book/show/27154723)
+   * ["Дискретная математика для программистов" Rod Haggarty](https://www.goodreads.com/book/show/37813802)
+   * ["Джоэл о программировании" Joel Spolsky](https://www.goodreads.com/book/show/10423905)
+   * ["Вы не знаете JS" Kyle Simpson](https://www.goodreads.com/series/139311-you-don-t-know-js)    
+   * ["Проектирование событийно-ориентированных систем" Ben Stopford](https://www.goodreads.com/book/show/39793332-designing-event-driven-systems)
+
+* #### Read
+   * [<img src="https://svgshare.com/i/XTo.svg" alt="Books" height="16">](https://www.youtube.com/playlist?list=PL6p_PPKPl9GDGPAFKaSXbmDdzA2J1da4U) ["Совершенный код" Steve McConnell](https://www.goodreads.com/book/show/10543427)
+   * ["Грокаем алгоритмы" Aditya Y. Bhargava](https://www.goodreads.com/book/show/34180676)
+   * ["Не заставляйте меня думать" Steve Krug](https://www.goodreads.com/book/show/41149839)
+   * ["Дизайн привычных вещей" Donald A. Norman](https://www.goodreads.com/book/show/16031296)
+   * ["Идеальный программист. Как стать профессионалом разработки ПО" Robert C. Martin](https://www.goodreads.com/book/show/28690116)
+   * ["Цель. Процесс непрерывного совершенствования" Eliyahu M. Goldratt, Jeff Cox](https://www.goodreads.com/book/show/12792573)
+   * ["Современный учебник JavaScript" Ilya Kantor](https://learn.javascript.ru/)
+
+* #### Want to read
+   * ["Высоконагруженные приложения. Программирование, масштабирование, поддержка" Martin Kleppmann](https://www.goodreads.com/book/show/38736596)
+   * ["Базы данных. Инжиниринг надежности" Laine Campbell](https://www.goodreads.com/book/show/52692951)
+
+
