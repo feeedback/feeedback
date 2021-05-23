@@ -18,29 +18,19 @@
 
 ### [My pet projects <img src="https://svgshare.com/i/XBc.svg" alt="Study" height="20"> <img src="https://svgshare.com/i/XCV.svg" alt="Study" height="18">](https://github.com/search?q=%40feeedback+%23pet-project)
 
-*   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Twitch chat bot - Aligulac API**](https://github.com/feeedback/twitch_chat_bot_aligulac)&nbsp;&nbsp;&nbsp;[<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16">_Demo_](https://www.twitch.tv/aligulac_bot)    
-    _Cтатистика и предсказание исхода противостояний киберспортсменов по Starcraft 2_
-*   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **Minesweeper game**](https://feeedback.github.io/minesweeper-project)&nbsp;&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16">_Code_](https://github.com/feeedback/twitch_chat_bot_aligulac)  
-    _Полнофункциональный Сапёр. Семантическая и адаптивная вёрстка, доступный дизайн_
-*   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **Calculator electric unicycle payback**](https://feeedback.github.io/calcEUCPayback)&nbsp;&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16">_Code_](https://github.com/feeedback/calcEUCPayback)  
-    _Калькулятор окупаемости EUC. Кастомные элементы формы. Адаптивность. Смена цветовой схемы_
-*   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **Personal website**](https://risok.now.sh)&nbsp;&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16">_Code_](https://github.com/feeedback/feeedback.github.io)  
-    _Сайт-визитка. Построен на JAM-стеке статическим генератором Eleventy (мигрировал с Jekyll)_
- *   <img src="https://svgshare.com/i/XBx.svg" alt="In development" height="18">&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Telegram bot - customizable search vacancies**](https://github.com/feeedback/vacancies_bot)   
-    _Поиск и подписки на новые вакансии по своему гибкому фильтру_   
+*   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Twitch chat bot - Aligulac API**](https://github.com/feeedback/twitch_chat_bot_aligulac)&nbsp;&nbsp;&nbsp;[<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16">_Demo_](https://www.twitch.tv/aligulac_bot) &thinsp;•&thinsp; _Cтатистика и предсказание исхода противостояний киберспортсменов по Starcraft 2_
+*   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **Minesweeper game**](https://feeedback.github.io/minesweeper-project)&nbsp;&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16">_Code_](https://github.com/feeedback/twitch_chat_bot_aligulac) &thinsp;•&thinsp; _Полнофункциональный Сапёр. Семантическая и адаптивная вёрстка, доступный дизайн_
+*   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **Calculator electric unicycle payback**](https://feeedback.github.io/calcEUCPayback)&nbsp;&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16">_Code_](https://github.com/feeedback/calcEUCPayback) &thinsp;•&thinsp; _Калькулятор окупаемости EUC. Кастомные элементы формы. Адаптивность. Смена цветовой схемы_
+*   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **Personal website**](https://risok.now.sh)&nbsp;&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16">_Code_](https://github.com/feeedback/feeedback.github.io) &thinsp;•&thinsp; _Сайт-визитка. Построен на JAM-стеке статическим генератором Eleventy (мигрировал с Jekyll)_
+ *   <img src="https://svgshare.com/i/XBx.svg" alt="In development" height="18">&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Telegram bot - customizable search vacancies**](https://github.com/feeedback/vacancies_bot) &thinsp;•&thinsp; _Поиск и подписки на новые вакансии по своему гибкому фильтру_   
     
 ### [My study projects <img src="https://svgshare.com/i/XDg.svg" alt="Study" height="22">](https://github.com/search?q=%40feeedback+%23study-project)
 
-*   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **FreeCodeCamp проект. Exercise tracker with DB**](https://glitch.com/edit/#!/exercise-tracker-risok)  
-    _Планировщик упражнений. Учебный проект по работе с базами данных и сервером на FreeCodeCamp._
-*   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Hexlet проект. Игры разума**](https://github.com/feeedback/backend-project-lvl1)  
-    _Набор из пяти консольных логических игр_
-*   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Hexlet проект. Вычислитель отличий**](https://github.com/feeedback/backend-project-lvl2)  
-    _Программа, определяющая разницу (diff) между двумя структурами данных_
-*   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Hexlet проект. Поисковый движок**](https://github.com/feeedback/js-algorithms-project-lvl1)   
-    _Реализация небольшого поискового движка текста_
-*   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **Тестовый мини-проект. Avito-Tech/Frontend**](https://feeedback.github.io/safedeal-frontend-trainee)&nbsp;&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16">_Code_](https://github.com/feeedback/safedeal-frontend-trainee)  
-    _Галерея фото с комментариями. JS/React/Figma_
+*   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **FreeCodeCamp проект. Exercise tracker with DB**](https://glitch.com/edit/#!/exercise-tracker-risok) &thinsp;•&thinsp; _Планировщик упражнений. Учебный проект по работе с базами данных и сервером на FreeCodeCamp._
+*   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Hexlet проект. Игры разума**](https://github.com/feeedback/backend-project-lvl1) &thinsp;•&thinsp; _Набор из пяти консольных логических игр_
+*   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Hexlet проект. Вычислитель отличий**](https://github.com/feeedback/backend-project-lvl2) &thinsp;•&thinsp; _Программа, определяющая разницу (diff) между двумя структурами данных_
+*   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Hexlet проект. Поисковый движок**](https://github.com/feeedback/js-algorithms-project-lvl1) &thinsp;•&thinsp; _Реализация небольшого поискового движка текста_
+*   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **Тестовый мини-проект. Avito-Tech/Frontend**](https://feeedback.github.io/safedeal-frontend-trainee)&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16">_Code_](https://github.com/feeedback/safedeal-frontend-trainee) &thinsp;•&thinsp; _Галерея фото с комментариями. JS/React/Figma_
 
 ### My reading list <img src="https://svgshare.com/i/XSx.svg" alt="Books" height="16">
 
