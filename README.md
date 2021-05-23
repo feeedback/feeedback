@@ -61,6 +61,7 @@
    * ["Современный учебник JavaScript" Ilya Kantor](https://learn.javascript.ru/)
 
 * #### Want to read
+   * ["Рефакторинг кода на JavaScript. Улучшение проекта существующего кода" Martin Fowler](https://www.goodreads.com/book/show/43242144-refactoring)
    * ["Высоконагруженные приложения. Программирование, масштабирование, поддержка" Martin Kleppmann](https://www.goodreads.com/book/show/38736596)
    * ["Базы данных. Инжиниринг надежности" Laine Campbell](https://www.goodreads.com/book/show/52692951)
 
