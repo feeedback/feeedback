@@ -24,10 +24,10 @@
     
 ### [My study projects <img src="https://svgshare.com/i/XDg.svg" alt="Study" height="22">](https://github.com/search?q=%40feeedback+%23study-project)
 
-*   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **FreeCodeCamp проект. Exercise tracker with DB**](https://glitch.com/edit/#!/exercise-tracker-risok) &thinsp;•&thinsp; _Планировщик упражнений. Учебный проект по работе с базами данных и сервером на FreeCodeCamp._
-*   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Hexlet проект. Игры разума**](https://github.com/feeedback/backend-project-lvl1) &thinsp;•&thinsp; _Набор из пяти консольных логических игр_
-*   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Hexlet проект. Вычислитель отличий**](https://github.com/feeedback/backend-project-lvl2) &thinsp;•&thinsp; _Программа, определяющая разницу (diff) между двумя структурами данных_
 *   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Hexlet проект. Поисковый движок**](https://github.com/feeedback/js-algorithms-project-lvl1) &thinsp;•&thinsp; _Реализация небольшого поискового движка текста_
+*   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Hexlet проект. Вычислитель отличий**](https://github.com/feeedback/backend-project-lvl2) &thinsp;•&thinsp; _Программа, определяющая разницу (diff) между двумя структурами данных_
+*   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Hexlet проект. Игры разума**](https://github.com/feeedback/backend-project-lvl1) &thinsp;•&thinsp; _Набор из пяти консольных логических игр_
+*   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **FreeCodeCamp проект. Exercise tracker with DB**](https://glitch.com/edit/#!/exercise-tracker-risok) &thinsp;•&thinsp; _Планировщик упражнений. Учебный проект по работе с базами данных и сервером на FreeCodeCamp._
 *   [<img src="https://svgshare.com/i/XDD.svg" alt="Demo" height="16"> **Тестовый мини-проект. Avito-Tech/Frontend**](https://feeedback.github.io/safedeal-frontend-trainee)&nbsp;&nbsp;[<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16">_Code_](https://github.com/feeedback/safedeal-frontend-trainee) &thinsp;•&thinsp; _Галерея фото с комментариями. JS/React/Figma_
 
 ### My reading list <img src="https://svgshare.com/i/XSx.svg" alt="Books" height="16">
