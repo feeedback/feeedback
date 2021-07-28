@@ -32,7 +32,7 @@
    * ["Вы не знаете JS" Kyle Simpson](https://www.goodreads.com/series/139311-you-don-t-know-js)    
    * ["Проектирование событийно-ориентированных систем" Ben Stopford](https://www.goodreads.com/book/show/39793332-designing-event-driven-systems)
 
-* #### Read
+* #### Already read books
    * [<img src="https://svgshare.com/i/XTo.svg" alt="Books" height="16">](https://www.youtube.com/playlist?list=PL6p_PPKPl9GDGPAFKaSXbmDdzA2J1da4U) ["Совершенный код" Steve McConnell](https://www.goodreads.com/book/show/10543427)
    * ["Грокаем алгоритмы" Aditya Y. Bhargava](https://www.goodreads.com/book/show/34180676)
    * ["Не заставляйте меня думать" Steve Krug](https://www.goodreads.com/book/show/41149839)
