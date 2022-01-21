@@ -25,11 +25,10 @@
 ### My reading list
 
 * #### Currently reading <img src="https://svgshare.com/i/XRx.svg" alt="Books" height="16"> 
-   * ["Микросервисы. Паттерны разработки и рефакторинга" Chris Richardson](https://www.goodreads.com/book/show/58725498)
    * ["Дискретная математика для программистов" Rod Haggarty](https://www.goodreads.com/book/show/37813802)
-   * ["Джоэл о программировании" Joel Spolsky](https://www.goodreads.com/book/show/10423905)
-   * ["Вы не знаете JS" Kyle Simpson](https://www.goodreads.com/series/139311-you-don-t-know-js)    
    * ["Проектирование событийно-ориентированных систем" Ben Stopford](https://www.goodreads.com/book/show/39793332-designing-event-driven-systems)
+   * ["Программист-прагматик: Путь от подмастерья к мастеру" Andrew Hunt, Dave Thomas](https://www.goodreads.com/book/show/2591886)
+   * ["Микросервисы. Паттерны разработки и рефакторинга" Chris Richardson](https://www.goodreads.com/book/show/58725498)
 
 * #### Already read books
    * ["Node.js в действии" Mike Cantelon](https://www.goodreads.com/book/show/23505771)
@@ -40,7 +39,11 @@
    * ["Дизайн привычных вещей" Donald A. Norman](https://www.goodreads.com/book/show/16031296)
    * ["Идеальный программист. Как стать профессионалом разработки ПО" Robert C. Martin](https://www.goodreads.com/book/show/28690116)
    * ["Цель. Процесс непрерывного совершенствования" Eliyahu M. Goldratt, Jeff Cox](https://www.goodreads.com/book/show/12792573)
-   * ["Современный учебник JavaScript" Ilya Kantor](https://learn.javascript.ru/)
+   * ["Современный учебник JavaScript" Ilya Kantor](https://learn.javascript.ru/) 
+
+* #### Pause reading
+   * ["Вы не знаете JS" Kyle Simpson](https://www.goodreads.com/series/139311-you-don-t-know-js)
+   * ["Джоэл о программировании" Joel Spolsky](https://www.goodreads.com/book/show/10423905)
 
 * #### Want to read
    * ["Рефакторинг кода на JavaScript. Улучшение проекта существующего кода" Martin Fowler](https://www.goodreads.com/book/show/43242144-refactoring)
