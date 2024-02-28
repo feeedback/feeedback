@@ -24,13 +24,15 @@
 
 ### My reading list
 
-* #### Currently reading <img src="https://svgshare.com/i/XRx.svg" alt="Books" height="16"> 
+* #### Currently reading <img src="https://svgshare.com/i/XRx.svg" alt="Books" height="16">
+   * ["Джоэл о программировании" Joel Spolsky](https://www.goodreads.com/book/show/10423905)
    * ["Дискретная математика для программистов" Rod Haggarty](https://www.goodreads.com/book/show/37813802)
    * ["Проектирование событийно-ориентированных систем" Ben Stopford](https://www.goodreads.com/book/show/39793332-designing-event-driven-systems)
-   * ["Программист-прагматик: Путь от подмастерья к мастеру" Andrew Hunt, Dave Thomas](https://www.goodreads.com/book/show/2591886)
    * ["Микросервисы. Паттерны разработки и рефакторинга" Chris Richardson](https://www.goodreads.com/book/show/58725498)
 
 * #### Already read books
+   * ["Мифический человеко-месяц или как создаются программные системы" Frederick P. Brooks Jr.](https://www.goodreads.com/book/show/10751820)
+   * ["Программист-прагматик: Путь от подмастерья к мастеру" Andrew Hunt, Dave Thomas](https://www.goodreads.com/book/show/2591886)
    * ["Node.js в действии" Mike Cantelon](https://www.goodreads.com/book/show/23505771)
    * ["Код. Тайный язык информатики" Charles Petzold](https://www.goodreads.com/book/show/27154723)
    * [<img src="https://svgshare.com/i/XTo.svg" alt="(audio)" height="16">](https://www.youtube.com/playlist?list=PL6p_PPKPl9GDGPAFKaSXbmDdzA2J1da4U) ["Совершенный код" Steve McConnell](https://www.goodreads.com/book/show/10543427)
@@ -38,13 +40,10 @@
    * ["Не заставляйте меня думать" Steve Krug](https://www.goodreads.com/book/show/41149839)
    * ["Дизайн привычных вещей" Donald A. Norman](https://www.goodreads.com/book/show/16031296)
    * ["Идеальный программист. Как стать профессионалом разработки ПО" Robert C. Martin](https://www.goodreads.com/book/show/28690116)
+   * ["Вы не знаете JS" Kyle Simpson](https://www.goodreads.com/series/139311-you-don-t-know-js) (не все тома)
    * ["Цель. Процесс непрерывного совершенствования" Eliyahu M. Goldratt, Jeff Cox](https://www.goodreads.com/book/show/12792573)
-   * ["Современный учебник JavaScript" Ilya Kantor](https://learn.javascript.ru/) 
-
-* #### Pause reading
-   * ["Вы не знаете JS" Kyle Simpson](https://www.goodreads.com/series/139311-you-don-t-know-js)
-   * ["Джоэл о программировании" Joel Spolsky](https://www.goodreads.com/book/show/10423905)
-
+   * ["Современный учебник JavaScript" Ilya Kantor](https://learn.javascript.ru/)
+     
 * #### Want to read
    * ["Рефакторинг кода на JavaScript. Улучшение проекта существующего кода" Martin Fowler](https://www.goodreads.com/book/show/43242144-refactoring)
    * ["Высоконагруженные приложения. Программирование, масштабирование, поддержка" Martin Kleppmann](https://www.goodreads.com/book/show/38736596)
