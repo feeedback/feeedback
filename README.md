@@ -6,6 +6,10 @@
 [![Codewars](https://img.shields.io/badge/Codewars-%23B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=B1361E&color=f5f5f2)](https://www.codewars.com/users/risok)&nbsp;
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&color=f5f5f2)](https://www.linkedin.com/in/risok) -->
 
+<img src="https://svgshare.com/i/15Bh.svg" alt="language stats"> 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feeedback&hide=css,html&layout=compact)  -->
+<!-- [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=risok&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
+
 ### [My pet projects](https://github.com/search?q=%40feeedback+%23pet-project)
 
 *   [<img src="https://simpleicons.org/icons/github.svg" alt="github" height="16"> **Twitch chat bot - Aligulac API**](https://github.com/feeedback/twitch_chat_bot_aligulac)&nbsp;&nbsp;&nbsp;[<img src="https://svgshare.com/i/XDD.svg" alt="(demo)" height="16">](https://www.twitch.tv/aligulac_bot) &thinsp;•&thinsp; _Cтатистика и предсказание исхода противостояний киберспортсменов по Starcraft 2_
