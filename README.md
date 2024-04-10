@@ -28,14 +28,15 @@
 ### My reading list
 
 * #### Currently reading <img src="https://svgshare.com/i/XRx.svg" alt="Books" height="16">
-   * ["Джоэл о программировании" Joel Spolsky](https://www.goodreads.com/book/show/10423905)
-   * ["Дискретная математика для программистов" Rod Haggarty](https://www.goodreads.com/book/show/37813802)
+   * ["Высоконагруженные приложения. Программирование, масштабирование, поддержка" Martin Kleppmann](https://www.goodreads.com/book/show/38736596)
    * ["Проектирование событийно-ориентированных систем" Ben Stopford](https://www.goodreads.com/book/show/39793332-designing-event-driven-systems)
    * ["Микросервисы. Паттерны разработки и рефакторинга" Chris Richardson](https://www.goodreads.com/book/show/58725498)
 
 * #### Already read books
+   * ["Джоэл о программировании" Joel Spolsky](https://www.goodreads.com/book/show/10423905)
    * ["Мифический человеко-месяц или как создаются программные системы" Frederick P. Brooks Jr.](https://www.goodreads.com/book/show/10751820)
    * ["Программист-прагматик: Путь от подмастерья к мастеру" Andrew Hunt, Dave Thomas](https://www.goodreads.com/book/show/2591886)
+   * ["Дискретная математика для программистов" Rod Haggarty](https://www.goodreads.com/book/show/37813802)
    * ["Node.js в действии" Mike Cantelon](https://www.goodreads.com/book/show/23505771)
    * ["Код. Тайный язык информатики" Charles Petzold](https://www.goodreads.com/book/show/27154723)
    * [<img src="https://svgshare.com/i/XTo.svg" alt="(audio)" height="16">](https://www.youtube.com/playlist?list=PL6p_PPKPl9GDGPAFKaSXbmDdzA2J1da4U) ["Совершенный код" Steve McConnell](https://www.goodreads.com/book/show/10543427)
@@ -49,7 +50,6 @@
      
 * #### Want to read
    * ["Рефакторинг кода на JavaScript. Улучшение проекта существующего кода" Martin Fowler](https://www.goodreads.com/book/show/43242144-refactoring)
-   * ["Высоконагруженные приложения. Программирование, масштабирование, поддержка" Martin Kleppmann](https://www.goodreads.com/book/show/38736596)
    * ["Базы данных. Инжиниринг надежности" Laine Campbell](https://www.goodreads.com/book/show/52692951)
 
 
