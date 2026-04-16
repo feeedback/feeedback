@@ -28,11 +28,11 @@
 ### My reading list
 
 * #### Currently reading <img src="https://raw.githubusercontent.com/feeedback/feeedback/refs/heads/main/assets/book.svg" alt="Books" height="16">
-   * ["Высоконагруженные приложения. Программирование, масштабирование, поддержка" Martin Kleppmann](https://www.goodreads.com/book/show/38736596)
    * ["Проектирование событийно-ориентированных систем" Ben Stopford](https://www.goodreads.com/book/show/39793332-designing-event-driven-systems)
    * ["Микросервисы. Паттерны разработки и рефакторинга" Chris Richardson](https://www.goodreads.com/book/show/58725498)
 
 * #### Already read books
+   * ["Высоконагруженные приложения. Программирование, масштабирование, поддержка" Martin Kleppmann](https://www.goodreads.com/book/show/38736596)
    * ["Джоэл о программировании" Joel Spolsky](https://www.goodreads.com/book/show/10423905)
    * ["Мифический человеко-месяц или как создаются программные системы" Frederick P. Brooks Jr.](https://www.goodreads.com/book/show/10751820)
    * ["Программист-прагматик: Путь от подмастерья к мастеру" Andrew Hunt, Dave Thomas](https://www.goodreads.com/book/show/2591886)
